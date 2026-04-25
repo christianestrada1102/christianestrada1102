@@ -29,10 +29,16 @@ Always open to collaboration and new challenges that push my limits as a develop
 [![Portfolio Preview](./Portfolio.png)](https://portafolio-seven-iota-56.vercel.app/)
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-seven-iota-56.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-9A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/christian-estrada-a59130386/)
-[![twitter](https://img.shields.io/badge/x-223?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CodeByNAS)
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/christian-estrada-a59130386/">
+    <img src="inkedin.svg" width="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/CodeByNAS">
+    <img src="x.svg" width="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/christian_estrada1102/">
+    <img src="instagram.svg" width="30"/>
+  </a>
+</p>
