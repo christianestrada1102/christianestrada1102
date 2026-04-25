@@ -20,6 +20,17 @@ Always open to collaboration and new challenges that push my limits as a develop
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianestrada1102&bg_color=0d1117&color=c992e3&line=a951d2&point=ffffff&area=true&hide_border=true" />
 </p>
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=christianestrada1102&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c992e3&icon_color=a951d2&text_color=ffffff&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianestrada1102&layout=compact&hide_border=true&bg_color=0d1117&title_color=c992e3&text_color=ffffff&langs_count=8" />
+
+
+</div>
+
+
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=christianestrada1102&theme=dark&background=0d1117&ring=c992e3&fire=a951d2&currStreakLabel=c992e3&sideLabels=ffffff&dates=ffffff&hide_border=true&v=3" />
 </p>
