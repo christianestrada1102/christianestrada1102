@@ -21,7 +21,7 @@ Always open to collaboration and new challenges that push my limits as a develop
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=christianestrada1102&theme=dark&background=0d1117&ring=c992e3&fire=a951d2&currStreakLabel=c992e3&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=christianestrada1102&theme=dark&background=0d1117&ring=c992e3&fire=a951d2&currStreakLabel=c992e3&sideLabels=ffffff&dates=ffffff&hide_border=true&v=3" />
 </p>
 
 ## Portfolio Preview
