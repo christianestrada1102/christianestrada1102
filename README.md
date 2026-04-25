@@ -30,15 +30,5 @@ Always open to collaboration and new challenges that push my limits as a develop
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christian-estrada-a59130386/">
-    <img src="inkedin.svg" width="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/CodeByNAS">
-    <img src="x.svg" width="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/christian_estrada1102/">
-    <img src="instagram.svg" width="30"/>
-  </a>
+  <a href="https://www.linkedin.com/in/christian-estrada-a59130386/"><img src="inkedin.svg" width="36" /></a><a href="https://x.com/CodeByNAS"><img src="x.svg" width="36" /></a><a href="https://www.instagram.com/christian_estrada1102/"><img src="instagram.svg" width="36" /></a>
 </p>
