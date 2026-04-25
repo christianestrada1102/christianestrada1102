@@ -10,6 +10,14 @@ I’ve participated in hackathons with NASA, MIT, AWS, and ETH Mty, where I’ve
 
 Always open to collaboration and new challenges that push my limits as a developer 
 
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/christian-estrada-a59130386/"><img src="inkedin.svg" width="36" /></a><a href="https://x.com/CodeByNAS"><img src="x.svg" width="36" /></a><a href="https://www.instagram.com/christian_estrada1102/"><img src="instagram.svg" width="36" /></a>
+</p>
+
+
+
 ## Tech Stack
 
 <p align="center">
@@ -29,6 +37,3 @@ Always open to collaboration and new challenges that push my limits as a develop
 [![Portfolio Preview](./Portfolio.png)](https://portafolio-seven-iota-56.vercel.app/)
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/christian-estrada-a59130386/"><img src="inkedin.svg" width="36" /></a><a href="https://x.com/CodeByNAS"><img src="x.svg" width="36" /></a><a href="https://www.instagram.com/christian_estrada1102/"><img src="instagram.svg" width="36" /></a>
-</p>
