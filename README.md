@@ -14,8 +14,9 @@ Always open to collaboration and new challenges that push my limits as a develop
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,vite,tailwind,nodejs,flutter,cs,cpp,firebase,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vite,tailwind,nodejs,flutter,cs,supabase,firebase,git&theme=dark" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianestrada1102&bg_color=0d1117&color=c992e3&line=a951d2&point=ffffff&area=true&hide_border=true" />
