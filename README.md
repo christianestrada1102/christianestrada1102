@@ -14,7 +14,7 @@ Always open to collaboration and new challenges that push my limits as a develop
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,nodejs,flutter,cs,cpp,firebase,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,vite,tailwind,nodejs,flutter,cs,cpp,firebase,git&theme=dark" />
 </p>
 
 <p align="center">
